@@ -374,7 +374,7 @@ p {
 
 .project-image.img1 {
     height: 200px;
-    background-image: url("/assests/img/project_img1.png");
+    background-image: url("../assests/img/project_img1.png");
     background-position: center;
     background-size: cover;
     position: relative;
@@ -382,7 +382,7 @@ p {
 }
 .project-image.img2{
     height: 200px;
-    background-image: url("/assests/img/project_img2.jpg");
+    background-image: url("../assests/img/project_img2.jpg");
     background-position: center;
     background-size: cover;
     position: relative;
@@ -392,7 +392,7 @@ p {
 .project-image.img3{
     height: 200px;
 
-    background-image: url("/assests/img/project_img3.jpg");
+    background-image: url("../assests/img/project_img3.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -402,7 +402,7 @@ p {
 }
 .project-image.img4{
     height: 200px;
-    background-image: url("/assests/img/project_img4.webp");
+    background-image: url("../assests/img/project_img4.webp");
     background-position: center;
     background-size: cover;
     position: relative;
@@ -411,7 +411,7 @@ p {
 }
 .project-image.img5{
     height: 200px;
-    background-image: url("/assests/img/project_img5.png");
+    background-image: url("../assests/img/project_img5.png");
     background-position: center;
     background-size: cover;
     position: relative;
@@ -420,7 +420,7 @@ p {
 }
 .project-image.img6{
     height: 200px;
-    background-image: url("/assests/img/project_img6.jpg");
+    background-image: url("../assests/img/project_img6.jpg");
     background-position: center;
     background-size: cover;
     position: relative;
